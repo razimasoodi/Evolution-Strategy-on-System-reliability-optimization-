@@ -7,6 +7,7 @@ during designing a highly reliable system. In this project we ask you to design 
 Strategy (ES) based approach to reach this goal.
 Well-known benchmarks
 The notations used in this project are listed in table (1):
+
 table 1: notations
 
 ![Screenshot (104)](https://github.com/razimasoodi/Evolution-Strategy-on-System-reliability-optimization-/assets/170275013/b83cca26-3d57-40b1-9b13-56624a7db0e1)
