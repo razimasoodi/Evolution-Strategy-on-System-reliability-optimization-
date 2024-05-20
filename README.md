@@ -29,6 +29,7 @@ subsystems. The objective function for complex system is:
 𝑀𝑎𝑥 𝑓(𝑟. 𝑛𝑐)= 𝑅1𝑅2 + 𝑅3𝑅4+ 𝑅1𝑅4𝑅5 + 𝑅2𝑅3𝑅5− 𝑅1𝑅2𝑅3𝑅4 - 𝑅1𝑅2𝑅3𝑅5− 𝑅1𝑅2𝑅4𝑅5 − 𝑅1𝑅3𝑅4𝑅5 − 𝑅2𝑅3𝑅4𝑅5 + 2𝑅1𝑅2𝑅3𝑅4𝑅5
 
 subject to:
+
 ![image](https://github.com/razimasoodi/Evolution-Strategy-on-System-reliability-optimization-/assets/170275013/29f3d035-58d6-43cf-b135-798157893282)
 
 1.2. Series system (P2): Figure 2 represents a series system consisting of five subsystems. The
